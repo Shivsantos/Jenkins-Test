@@ -1,1 +1,2 @@
-# Jenkins-Test
+# java-project
+Java Project for Jenkins Course
